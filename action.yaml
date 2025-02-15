@@ -8,9 +8,9 @@ inputs:
   GITHUB_TOKEN:
     description: 'token'
     required: true
-  TENOR_TOKEN:
-  description: 'tenor api token'
-  required: true
+  # TENOR_TOKEN:
+  # description: 'tenor api token'
+  # required: true
 
 
 runs:
